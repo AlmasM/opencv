@@ -17,15 +17,20 @@ OpenCV related demos and face recognition files
 - OpenFace
     - [Face Recognition](https://github.com/cmusatyalab/openface) with deep neural network based on Dlib and Torch
     - [OpenFace 0.3.0](https://github.com/TadasBaltrusaitis/OpenFace) facial behavior analysis package
+- [Tutorial](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) to build face recognition using OpenFace and Dlib
 - Image recognition package by [Google](https://www.tensorflow.org/tutorials/image_recognition#usage_with_python_api) using Tensorflow
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) allows to extracting certain information from videos and images
-- [FaceNet](https://github.com/davidsandberg/facenet/tree/ee5de933815e5b7cc25a646fe23e5f0d076e795c) that uses TensorFlow to recognize faces
+- [FaceNet](https://github.com/davidsandberg/facenet/tree/ee5de933815e5b7cc25a646fe23e5f0d076e795c) that uses TensorFlow to recognize faces)
+- [List](https://konghq.com/blog/list-of-10-face-detection-recognition-apis/) of 10+ face recognition/detection APIs
 
 
 ### Additional Notes
 - [ImageNet](http://image-net.org/index) is one of the largest image database online. One of the people who worked on this project is Fei Fei Li. Fun fact you can watch her [TedEx](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) video 
 - [Imutils](https://github.com/jrosebr1/imutils) series of functions that help to manipulate images (i.e. rotation, color change, resizing). 
 - I highly recommend [PyImageSearch](https://www.pyimagesearch.com) as it has free installation guides that are very hands-on. 
+- List of [emotion detection](https://nordicapis.com/20-emotion-recognition-apis-that-will-leave-you-impressed-and-concerned/) face recognition APIs.
+- Tutorial on [TensorFlow](https://www.datacamp.com/community/tutorials/tensorflow-tutorial#model
+- [Object detection](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721) using deep learning (CNN) based on TensorFlow
 
 
 ### Acknowledgements:
