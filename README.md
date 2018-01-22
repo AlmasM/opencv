@@ -1,4 +1,4 @@
-# OpenCV
+# Resources for OpenCV, Python and Face Recognition packages
 OpenCV related demos and face recognition files
 
 
